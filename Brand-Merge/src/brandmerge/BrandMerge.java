@@ -3,7 +3,9 @@ package brandmerge;
 public class BrandMerge {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		//Escribimos hola mundo
+		System.out.println("Hola mundo");
 
 	}
 
